@@ -4,6 +4,3 @@ INTEGRANTES:
 _Abanto Romero Nicolás Fernando 
 _Jara Varas Josue Adriano 
 _Villanueva Rodríguez Felix Alexander
-
-
-hola soy josue
