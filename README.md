@@ -3,4 +3,4 @@ Desarrollo grupal de práctica de campo 01 del curso Técnicas de Programa. Orie
 INTEGRANTES: 
 _Abanto Romero Nicolás Fernando 
 _Jara Varas Josue Adriano 
-_Villanueva Rodríguez Félix Alexander
+_Villanueva Rodríguez Felix Alexander
